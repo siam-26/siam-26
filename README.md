@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/02/02/51/62/360_F_202516212_m7v0yJwPQENQedM8tmGCCPSalUxGwXPZ.jpg)](https://codegrills.in)
+[![MasterHead](https://st2.depositphotos.com/1802620/7621/v/950/depositphotos_76219963-stock-illustration-programming-concept-banner.jpg)](https://codegrills.in)
 <h1 align="left">Hi, I'm Sayed Abu Ahmed!</h1>
 <h3 align="left">A Passionate Frontend Developer</h3>
 <p align="left">I'm passionate about the field of web development, and most importantly, I am constantly seeking opportunities to improve my knowledge and stay up-to-date with the latest trends and technologies in web development. I am confident in my ability to provide innovative and effective solutions for any project.</p>
