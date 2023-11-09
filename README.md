@@ -1,11 +1,11 @@
 [![MasterHead](https://st2.depositphotos.com/1802620/7621/v/950/depositphotos_76219963-stock-illustration-programming-concept-banner.jpg)](https://codegrills.in)
 <h1 align="left">Hi, I'm Sayed Abu Ahmed!</h1>
-<h3 align="left">A Passionate Web Developer (JavaScript Developer)</h3>
-<p align="left">I'm passionate about the field of web development, and most importantly, I am constantly seeking opportunities to improve my knowledge and stay up-to-date with the latest trends and technologies in web development. I am confident in my ability to provide innovative and effective solutions for any project.</p>
+<h3 align="left">A Passionate Frontend Developer</h3>
+<p align="left">I'm passionate about the field of web application development, and most importantly, I am constantly seeking opportunities to improve my knowledge and stay up-to-date with the latest trends and technologies in web development. I am confident in my ability to provide innovative and effective solutions for any project.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siam-26&label=Profile%20views&color=0e75b6&style=flat" alt="siam-26" /> </p>
 
-- 👨‍💻 See my Portfolio at [Visit my Portfolio](https://sayed-website.netlify.app/)
+- 👨‍💻 See my Portfolio at [Visit my Portfolio](https://sayedportfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript, TypeScript, ReactJs, MERN**
 
@@ -17,7 +17,7 @@
 <p align="left">
 •<a href="https://linkedin.com/in/sayed-siam" target="blank">  LinkedIn 💼</a> <br/>
 •<a href="https://fb.com/md.sayedabuahmed" target="blank"> Facebook 😏</a> <br/>
-•<a href="https://sayed-website.netlify.app/" target="blank"> Website 🔗</a>
+•<a href="https://sayedportfolio.netlify.app/" target="blank"> Website 🔗</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
