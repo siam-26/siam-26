@@ -1,30 +1,22 @@
-[![MasterHead](https://st2.depositphotos.com/1802620/7621/v/950/depositphotos_76219963-stock-illustration-programming-concept-banner.jpg)](https://codegrills.in)
-<h1 align="left">Hi, I'm Syed Abu Ahmad Siam!</h1>
-<h3 align="left">A Passionate Frontend Developer</h3>
-<p align="left">I'm passionate about the field of web application development, and most importantly, I am constantly seeking opportunities to improve my knowledge and stay up-to-date with the latest trends and technologies in web development. I am confident in my ability to provide innovative and effective solutions for any project.</p>
+![Frontend Developer](https://media.licdn.com/dms/image/D5616AQGPA_jlJR5J9g/profile-displaybackgroundimage-shrink_350_1400/0/1670480565225?e=1704931200&v=beta&t=63xccM2y91_HFgiTjMTBT0DpGtNidMgytcbVIuIA61E)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siam-26&label=Profile%20views&color=0e75b6&style=flat" alt="siam-26" /> </p>
+# Hi there 👋, I'm Syed Abu Ahmad Siam
+## Frontend Developer
 
-- 👨‍💻 See my Portfolio at [Visit my Portfolio](https://sayedportfolio.netlify.app/)
+Passionate about building innovative web applications, I'm a Frontend Developer with a strong foundation in JavaScript, React JS, TypeScript, HTML5, and CSS3. I thrive on learning new technologies and solving complex problems.
 
-- 💬 Ask me about **JavaScript, TypeScript, ReactJs, MERN**
+Skills: HTML5 / CSS3 / JavaScript / REACTJS / NEXTJS / TypeScript / REST API
 
-- ✉️ You can contact me at **siamshahriar390@gmail.com**
-  
-- 📄 See my [Resume](https://drive.google.com/file/d/1s8VCDXMfDyOEJgF0u0TM4IF2Aq0tfPA3/view?usp=sharing)
+- 🌱 I’m currently learning JavaScript in depth. 
+- 👯 I’m looking to collaborate on Github. 
+- 💬 Ask me about Frontend Web Application Development 
+- 📫 How to reach me: siamshahriar390@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-•<a href="https://linkedin.com/in/sayed-siam" target="blank">  LinkedIn 💼</a> <br/>
-•<a href="https://fb.com/md.sayedabuahmed" target="blank"> Facebook 😏</a> <br/>
-•<a href="https://sayedportfolio.netlify.app/" target="blank"> Website 🔗</a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/siam-26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sayed-siam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Md.SayedAbuAhmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sayedportfolio.netlify.app/)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siam-26&show_icons=true&locale=en&layout=compact" alt="siam-26" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siam-26)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siam-26&show_icons=true&locale=en" alt="siam-26" /></p>
+![GitHub metrics](https://metrics.lecoq.io/siam-26)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siam-26&" alt="siam-26" /></p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=siam-26)  
