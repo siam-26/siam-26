@@ -1,4 +1,4 @@
-![Frontend Developer](https://media.licdn.com/dms/image/D5616AQGPA_jlJR5J9g/profile-displaybackgroundimage-shrink_350_1400/0/1670480565225?e=1704931200&v=beta&t=63xccM2y91_HFgiTjMTBT0DpGtNidMgytcbVIuIA61E)
+
 
 # Hi there 👋, I'm Syed Abu Ahmad Siam
 ## MERN Stack Developer
