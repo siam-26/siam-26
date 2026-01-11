@@ -1,9 +1,9 @@
 ![Frontend Developer](https://media.licdn.com/dms/image/D5616AQGPA_jlJR5J9g/profile-displaybackgroundimage-shrink_350_1400/0/1670480565225?e=1704931200&v=beta&t=63xccM2y91_HFgiTjMTBT0DpGtNidMgytcbVIuIA61E)
 
 # Hi there 👋, I'm Syed Abu Ahmad Siam
-## Frontend Developer
+## MERN Stack Developer
 
-Passionate about building innovative web applications, I'm a Frontend Developer with a strong foundation in JavaScript, React JS, TypeScript, HTML5, and CSS3. I thrive on learning new technologies and solving complex problems.
+Passionate about building innovative web applications, I'm a Frontend Developer with a strong foundation in JavaScript, React JS, Next Js, TypeScript, HTML5, and CSS3. I thrive on learning new technologies and solving complex problems.
 
 Skills: HTML5 / CSS3 / JavaScript / REACTJS / NEXTJS / TypeScript / REST API
 
