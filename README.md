@@ -1,13 +1,12 @@
 
 
 # Hi there 👋, I'm Syed Abu Ahmad Siam
-## MERN Stack Developer
+## Web Developer | JavaScript Developer | MERN Stack Developer
 
 Passionate about building innovative web applications, I'm a Frontend Developer with a strong foundation in JavaScript, React JS, Next Js, TypeScript, HTML5, and CSS3. I thrive on learning new technologies and solving complex problems.
 
-Skills: HTML5 / CSS3 / JavaScript / REACTJS / NEXTJS / TypeScript / REST API
+Skills: JavaScript / TypeScript / React / Next.js / Redux / Tailwind CSS / Node.js / Express.js / MongoDB / Mongoose
 
-- 🌱 I’m currently learning JavaScript in depth. 
 - 👯 I’m looking to collaborate on Github. 
 - 💬 Ask me about Frontend Web Application Development 
 - 📫 How to reach me: siamshahriar390@gmail.com 
